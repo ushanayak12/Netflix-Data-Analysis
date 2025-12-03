@@ -69,17 +69,27 @@ End-to-end analysis of Netflix content trends using Python & Power BI
    -   Summarized actionable business insights.
 
 📈 5. Exploratory Data Analysis (Visual Summary)
-      1️⃣ Movie vs TV Show Distribution
-      -   Shows the dominant type of content on Netflix.
-      2️⃣ Genre Analysis
-      -   Top genres include:
-      -   Drama
-      -   International Movies
-      -   Documentaries
-      3️⃣ Country Contribution
-      -   USA and India are major contributors of Netflix content.
-      4️⃣ Yearly Release Trend
-      -   2015–2019 saw a steep rise in content additions, peaking in 2019.
+  1️⃣ Movie vs TV Show Distribution
+
+   -   Shows the dominant type of content on Netflix.
+
+ 2️⃣ Genre Analysis
+
+   -   Top genres include:
+
+   -   Drama
+
+   -   International Movies
+
+   -   Documentaries
+
+  3️⃣ Country Contribution
+
+   -   USA and India are major contributors of Netflix content.
+
+  4️⃣ Yearly Release Trend
+
+   -   2015–2019 saw a steep rise in content additions, peaking in 2019.
 
 💡 6. Key Insights :
    -   Movies make up the majority of the Netflix catalog (around 70%).
