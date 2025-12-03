@@ -69,6 +69,7 @@ End-to-end analysis of Netflix content trends using Python & Power BI
    -   Summarized actionable business insights.
 
 📈 5. Exploratory Data Analysis (Visual Summary)
+
   1️⃣ Movie vs TV Show Distribution
 
    -   Shows the dominant type of content on Netflix.
