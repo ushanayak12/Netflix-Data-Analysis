@@ -73,6 +73,7 @@ End-to-end analysis of Netflix content trends using Python & Power BI
   1️⃣ Movie vs TV Show Distribution
 
    -   Shows the dominant type of content on Netflix.
+   -   Here is the graph : "C:\Users\jyoti\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 223710.png"
 
  2️⃣ Genre Analysis
 
@@ -84,14 +85,21 @@ End-to-end analysis of Netflix content trends using Python & Power BI
 
    -   Documentaries
 
+   -   Here is the Graph : "C:\Users\jyoti\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 223744.png"
+
   3️⃣ Country Contribution
 
    -   USA and India are major contributors of Netflix content.
+
+   -   Here is the Graph : "C:\Users\jyoti\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 223815.png"
+                           "C:\Users\jyoti\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 223856.png"
 
   4️⃣ Yearly Release Trend
 
    -   2015–2019 saw a steep rise in content additions, peaking in 2019.
 
+   -   Here is the Graph : "C:\Users\jyoti\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 224522.png"
+     
 💡 6. Key Insights :
    -   Movies make up the majority of the Netflix catalog (around 70%).
    -   Drama and International Movies dominate the genre distribution.
