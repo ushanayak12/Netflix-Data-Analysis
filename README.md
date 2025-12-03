@@ -5,7 +5,7 @@ NETFLIX DATASET
 This project performs a complete analysis of Netflix’s catalog to understand global content patterns.
 Using Python for EDA and Power BI for visualization, the goal was to uncover:
 
-> Content trends over the years
+-  Content trends over the years
 
 > Dominant genres and categories
 
@@ -15,4 +15,4 @@ Using Python for EDA and Power BI for visualization, the goal was to uncover:
 
 > Insights that help in content strategy and business decision-making
 
-> This project showcases real-world analytical thinking and storytelling with data.
+This project showcases real-world analytical thinking and storytelling with data.
