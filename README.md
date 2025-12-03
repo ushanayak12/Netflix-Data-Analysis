@@ -85,20 +85,20 @@ End-to-end analysis of Netflix content trends using Python & Power BI
 
    -   Documentaries
 
-   -   Here is the Graph : "C:\Users\jyoti\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 223744.png"
+   -   ![Geners]( https://github.com/ushanayak12/Netflix-Data-Analysis/blob/main/genre_analysis.png)
 
   3️⃣ Country Contribution
 
    -   USA and India are major contributors of Netflix content.
 
-   -   Here is the Graph : "C:\Users\jyoti\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 223815.png"
-                           "C:\Users\jyoti\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 223856.png"
+   -  ![Country](https://github.com/ushanayak12/Netflix-Data-Analysis/blob/main/Countries.png)
+      ![Country]( https://github.com/ushanayak12/Netflix-Data-Analysis/blob/main/Countries2.png )
 
   4️⃣ Yearly Release Trend
 
    -   2015–2019 saw a steep rise in content additions, peaking in 2019.
 
-   -   Here is the Graph : "C:\Users\jyoti\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 224522.png"
+   -   ![Yearly](https://github.com/ushanayak12/Netflix-Data-Analysis/blob/main/yearly_trend.png)
      
 💡 6. Key Insights :
    -   Movies make up the majority of the Netflix catalog (around 70%).
