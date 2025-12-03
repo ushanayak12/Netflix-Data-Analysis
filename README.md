@@ -73,7 +73,7 @@ End-to-end analysis of Netflix content trends using Python & Power BI
   1️⃣ Movie vs TV Show Distribution
 
    -   Shows the dominant type of content on Netflix.
-   -   Here is the graph : "C:\Users\jyoti\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 223710.png"
+   -  ![Movie vs TV Show Distribution]("C:\Users\jyoti\OneDrive\Pictures\Screenshots\Screenshot 2025-12-03 223710.png")
 
  2️⃣ Genre Analysis
 
