@@ -18,21 +18,19 @@ This project showcases real-world analytical thinking and storytelling with data
 Key columns include:
 
 -  show_id – Unique identifier
-
 -  type – Movie or TV Show
-
 -  title – Name of the content
-
 -  director / cast – Crew information
-
 -  country – Production country
-
 -  release_year – Release year of the title
-
 -  date_added – Date added to Netflix
-
 -  rating – Maturity rating
-
 -  duration – Movie runtime / number of seasons
-
 -  listed_in – Genre categories
+
+  3. Tools & Technologies Used
+
+          -    Python: Pandas, NumPy, Matplotlib, Seaborn
+          -    Jupyter Notebook
+          -    Power BI (Dashboard)
+          -    Excel / CSV (Dataset)
